@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="02_TwoPointers\" />
+    <Folder Include="03_SlidingWindow\" />
+    <Folder Include="04_Stack\" />
+    <Folder Include="05_BinarySearch\" />
+    <Folder Include="06_LinkedList\" />
+    <Folder Include="07_Trees\" />
+    <Folder Include="08_HeapPriorityQueue\" />
+    <Folder Include="09_Backtracking\" />
+    <Folder Include="10_Tries\" />
+    <Folder Include="11_Graphs\" />
+    <Folder Include="12_AdvancedGraphs\" />
+    <Folder Include="13_DP1D\" />
+    <Folder Include="14_DP2D\" />
+    <Folder Include="15_Greedy\" />
+    <Folder Include="16_Intervals\" />
+    <Folder Include="17_MathGeometry\" />
+    <Folder Include="18_BitManipulation\" />
+  </ItemGroup>
+
+</Project>

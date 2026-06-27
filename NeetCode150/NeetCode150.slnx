@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../NeetCode150.Runner/NeetCode150.Runner.csproj" Id="55eec312-c59f-477e-a0a0-3464bbba6b42" />
+  <Project Path="../NeetCode150.Tests/NeetCode150.Tests.csproj" />
+  <Project Path="NeetCode150.csproj" />
+</Solution>
